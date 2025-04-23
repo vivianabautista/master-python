@@ -1,0 +1,17 @@
+[project]
+name = "master-python"
+version = "0.1.0"
+description = "Proyecto para actividades sobre python"
+authors = [
+    {name = "Your Name",email = "you@example.com"}
+]
+license = {text = "GPL"}
+readme = "README.md"
+requires-python = "d"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
